@@ -1,0 +1,14 @@
+layout_spectrum: 0.7448385
+typography_spectrum: 0.4851686
+color:
+  saturation: 0.3649836
+  lightness: 0.9516242
+  brandStrength: 0.02164037
+  rhythmicContrast: 0.149961
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Ginetta
